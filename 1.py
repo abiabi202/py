@@ -19,6 +19,13 @@ button=Button(w,text="click",font=("times",20),command=ok)
 button.place(x=50,y=200)
 
 
+button=Button(w,text="click",font=("times",20),command=ok)
+button.place(x=50,y=300)
+
+
+button=Button(w,text="click",font=("times",20),command=ok)
+button.place(x=50,y=400)
+
 
 w.mainloop()
 
